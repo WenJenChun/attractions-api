@@ -42,11 +42,6 @@
   "collections": [
     {
       "viewId": "1",
-      "userId": "1",
-      "id": 1
-    },
-    {
-      "viewId": "1",
       "userId": "3",
       "id": 3
     },
@@ -54,6 +49,16 @@
       "viewId": "2",
       "userId": "3",
       "id": 4
+    },
+    {
+      "userId": "1",
+      "viewId": "1",
+      "id": 5
+    },
+    {
+      "userId": "1",
+      "viewId": "3",
+      "id": 7
     }
   ]
 }
